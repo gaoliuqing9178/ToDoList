@@ -751,3 +751,46 @@
 2025-11-21T22:11:33.781+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
 2025-11-21T22:15:10.163+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
 2025-11-21T22:15:18.672+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-11-23T13:04:55.652+0800	info	H:/task/Easy-ToDoList-main/pkg/logUtil/Logger.go:92	Logger init success	{"application": "todolist"}
+2025-11-23T13:04:55.673+0800	info	H:/task/Easy-ToDoList-main/cmd/v1/main.go:35	配置文件、日志、数据库初始化完成	{"application": "todolist"}
+2025-11-23T13:04:55.674+0800	info	H:/task/Easy-ToDoList-main/cmd/v1/main.go:56	服务启动于	{"application": "todolist", "port": "8848"}
+2025-11-23T13:05:22.520+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:45	无效的Token: %v	{"application": "todolist", "error": "token has invalid claims: token is expired"}
+2025-11-23T13:05:26.086+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-17T18:16:53.711+0800	info	H:/task/Easy-ToDoList-main/pkg/logUtil/Logger.go:92	Logger init success	{"application": "todolist"}
+2025-12-17T18:16:53.734+0800	info	H:/task/Easy-ToDoList-main/cmd/v1/main.go:35	配置文件、日志、数据库初始化完成	{"application": "todolist"}
+2025-12-17T18:16:53.735+0800	info	H:/task/Easy-ToDoList-main/cmd/v1/main.go:56	服务启动于	{"application": "todolist", "port": "8848"}
+2025-12-17T18:17:04.154+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-17T18:17:11.160+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-17T18:17:11.170+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:05:34.669+0800	info	H:/task/Easy-ToDoList-main/pkg/logUtil/Logger.go:92	Logger init success	{"application": "todolist"}
+2025-12-18T22:05:34.690+0800	info	H:/task/Easy-ToDoList-main/cmd/v1/main.go:35	配置文件、日志、数据库初始化完成	{"application": "todolist"}
+2025-12-18T22:05:34.692+0800	info	H:/task/Easy-ToDoList-main/cmd/v1/main.go:56	服务启动于	{"application": "todolist", "port": "8848"}
+2025-12-18T22:05:36.661+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:45	无效的Token: %v	{"application": "todolist", "error": "token has invalid claims: token is expired"}
+2025-12-18T22:06:02.247+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:10:12.886+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:21:03.688+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:21:07.421+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:21:12.694+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:21:15.799+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:21:19.447+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:23:45.797+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:25:22.099+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:27:03.647+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:27:13.342+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:31:17.715+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:31:33.572+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:32:00.604+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:32:11.042+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:33:16.640+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:33:34.477+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:33:57.320+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:34:14.955+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:34:33.178+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:34:49.493+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:35:24.984+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:35:36.685+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:35:36.697+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:35:56.823+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:35:56.852+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:38:03.551+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
+2025-12-18T22:38:08.774+0800	info	H:/task/Easy-ToDoList-main/internal/middleware/Auth.go:49	用户已通过JWT认证, 用户ID: 11	{"application": "todolist"}
